@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Data Science and Finance
 - 💬 Ask me about anything related data analysis and financial analysis
-- 📫 How to reach me: aydinarda@sabanciuniv.com
+- 📫 How to reach me: aydinarda@sabanciuniv.edu
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
 <br></br>
